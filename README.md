@@ -12,3 +12,5 @@ To activate the frontend,
 ```bash
 streamlit run frontend.py
 ```
+
+To turn on the mark read/good ability, input the right username, the default username is `owner`
