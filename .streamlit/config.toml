@@ -1,0 +1,11 @@
+[server]
+port = 5006
+baseUrlPath = "/paper/"
+runOnSave=true
+
+[browser]
+serverAddress="47.95.6.203"
+serverPort=80
+
+[theme]
+primaryColor="DeepSkyBlue"
